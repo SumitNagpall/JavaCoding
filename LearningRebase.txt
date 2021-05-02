@@ -1,0 +1,1 @@
+This file is just added to check functionality of git rebase.
